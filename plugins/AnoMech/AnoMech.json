@@ -1,0 +1,13 @@
+{
+    "Author": "Anomek",
+    "Name": "AnoMech",
+    "Punchline": "Another FFXIV mechanics simulator. Go to an inn and start practice.",
+    "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.",
+    "InternalName": "AnoMech",
+    "AssemblyVersion": "0.5.1.0",
+    "RepoUrl": "https://github.com/AppleCronch/AnoMech",
+    "ApplicableVersion": "any",
+    "Tags": ["top", "umad", "dmu", "kefka", "omega", "protocol", "ultimate", "practice", "simulator"],
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/AppleCronch/AnoMech/master/images/icon.png"
+}
