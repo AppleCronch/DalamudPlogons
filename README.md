@@ -17,7 +17,7 @@ Custom Dalamud plugin repository.
 
 | Plugin | Source |
 | --- | --- |
-| AnoMech (Elemental strats fork) | [AppleCronch/AnoMechElementalStrats](https://github.com/AppleCronch/AnoMechElementalStrats) |
+| AnoMechElementalStrats | [AppleCronch/AnoMechElementalStrats](https://github.com/AppleCronch/AnoMechElementalStrats) |
 
 ## How it works
 

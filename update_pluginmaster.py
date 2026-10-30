@@ -12,7 +12,7 @@ ASSET = 'latest.zip'
 
 # InternalName -> GitHub repo whose latest release carries <InternalName>/latest.zip
 SOURCES = {
-    'AnoMech': 'AppleCronch/AnoMechElementalStrats',
+    'AnoMechElementalStrats': 'AppleCronch/AnoMechElementalStrats',
 }
 
 DEFAULTS = {'IsHide': False, 'IsTestingExclusive': False, 'ApplicableVersion': 'any'}

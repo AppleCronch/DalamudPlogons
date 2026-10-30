@@ -1,11 +1,11 @@
 [
     {
         "Author": "Anomek",
-        "Name": "AnoMech",
+        "Name": "AnoMechElementalStrats",
         "Punchline": "Another FFXIV mechanics simulator. Go to an inn and start practice.",
         "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.",
-        "InternalName": "AnoMech",
-        "AssemblyVersion": "0.5.2.0",
+        "InternalName": "AnoMechElementalStrats",
+        "AssemblyVersion": "0.5.3.0",
         "RepoUrl": "https://github.com/AppleCronch/AnoMechElementalStrats",
         "ApplicableVersion": "any",
         "Tags": [
@@ -27,6 +27,6 @@
         "DownloadLinkTesting": "https://github.com/AppleCronch/AnoMechElementalStrats/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/AppleCronch/AnoMechElementalStrats/releases/latest/download/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1793389129"
+        "LastUpdate": "1793389640"
     }
 ]
