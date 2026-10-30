@@ -5,3 +5,4 @@
 - `update_pluginmaster.py` — Pulls manifests from release zips and regenerates pluginmaster.json
 - `plugins/AnoMechElementalStrats/AnoMechElementalStrats.json` — Seed/synced manifest
 - `.github/workflows/update.yml` — Runs the update script every 6h, on demand and on push
+- `repo-map.md` — This repository file index
